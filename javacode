@@ -1,5 +1,10 @@
 hello world
 this will be main file
 file will saved in main
+<<<<<<< HEAD
 moneyhiest
 netflix
+=======
+executed code succesfully
+deployed succesfully
+>>>>>>> 2b8ca7000a20bd277500360f72a80d94b11328b3
