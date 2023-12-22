@@ -1,6 +1,7 @@
 terraform is the tool
 we will deploy this file
 everyone need to update tool
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 all updates are successful
 we can work on latest version
@@ -14,3 +15,6 @@ changesa are commited
 every task is added 
 updates are succesful
 >>>>>>> 31c0b92634e199a1b10fd3a1a677fbe5a2d8ae65
+=======
+terraform will be created
+>>>>>>> Stashed changes
