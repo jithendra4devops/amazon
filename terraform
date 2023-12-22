@@ -2,5 +2,10 @@ terraform is the tool
 we will deploy this file
 everyone need to update tool
 all works are done
+<<<<<<< HEAD
 tasks and tickets are generated
 most of the tickets are highly preferable
+=======
+updated filesa are restored
+saved files are generated succesfully
+>>>>>>> 4d8f397ccbb5f229964a1f976b0568d83418809b
