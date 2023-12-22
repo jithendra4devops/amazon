@@ -1,6 +1,7 @@
 terraform is the tool
 we will deploy this file
 everyone need to update tool
+<<<<<<< HEAD
 all updates are successful
 we can work on latest version
 every ticket is created
@@ -9,3 +10,7 @@ this version is works on local
 =======
 changesa are commited
 >>>>>>> Stashed changes
+=======
+every task is added 
+updates are succesful
+>>>>>>> 31c0b92634e199a1b10fd3a1a677fbe5a2d8ae65
